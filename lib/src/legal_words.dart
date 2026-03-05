@@ -1,4 +1,4 @@
-const legalWords = <String>[
+const legalWordsRus = <String>[
   "Алтай",
   "Бирма",
   "ВЦСПС",
